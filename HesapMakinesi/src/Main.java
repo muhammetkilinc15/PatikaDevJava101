@@ -1,10 +1,14 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        //Pratik hesap makinesini switch-case ile yapınız
+        /*Author = Muhammet Kılınc
+        *
+        
+        */
+        
 
 
-        // Değişkenleri olusturalım
+        // variables
         int n1 , n2, select;
 
         //kullanıcıdan sayıları alalım
