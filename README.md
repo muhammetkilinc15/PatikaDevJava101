@@ -1,4 +1,4 @@
-# I created thi repositoy for patika dev assigments.
+>>>>  I created this repository for patika dev websites homeworks and exercises. You can look my codes.   <<<<
 
 
 
