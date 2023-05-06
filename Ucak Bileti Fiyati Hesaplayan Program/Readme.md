@@ -50,11 +50,12 @@ Yaşınızı giriniz : 35
 
 Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ): 1
 
+Toplam Tutar = 20.0 TL
 
 Senaryo 3 (Çıktı ):
 ------------------------------------------------------------
 
-Toplam Tutar = 20.0 TL
+
 
 ------------------------------------------------------------
 
