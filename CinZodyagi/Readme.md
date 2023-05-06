@@ -30,7 +30,7 @@ Doğum Tarihi %12 = 10 ➜ At
 
 Doğum Tarihi %12 = 11 ➜ Koyun
 
-Senaryo
+Örnek Çıktı
 ----------------------------------------------
 
 Doğum Yılınızı Giriniz : 1990
